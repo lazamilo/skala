@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "skala", "runtimeExecutable": "node", "runtimeArgs": ["/Users/lazarmilosevic/Desktop/skala/.claude/serve.mjs"], "port": 4317, "autoPort": true }
+  ]
+}
